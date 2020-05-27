@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_folder"
+        android:title="new folder" />
+    <item android:id="@+id/new_file"
+        android:title="new file" />
+    <item android:id="@+id/paste"
+        android:title="paste" />
+    <item
+        android:id="@+id/internal"
+        android:title="internal" />
+    <item
+        android:id="@+id/sdcard"
+        android:title="sdcard" />
+</menu>
